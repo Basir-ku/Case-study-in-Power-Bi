@@ -10,8 +10,10 @@ For subscription-based businesses, reducing customer churn is a top priority. In
 
 <img width="1329" alt="Screenshot 2023-07-15 at 14 08 02" src="https://github.com/Basir-ku/Case-study-in-Power-Bi/assets/123528497/a29c806e-2d29-4115-a1fa-e97e683b87c8">
 
+<img width="1394" alt="Screenshot 2023-08-03 at 01 05 10" src="https://github.com/Basir-ku/Case-study-in-Power-Bi/assets/123528497/0676ab72-5b90-48c5-b98e-60ec523ab199">
 
 
 
-[verfiy certification]
+
+[verfiy certification](https://www.datacamp.com/statement-of-accomplishment/course/bb1116a013e2cd81de1eddf9ff496099e215c433?raw=1)
 
