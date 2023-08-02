@@ -6,4 +6,6 @@ For subscription-based businesses, reducing customer churn is a top priority. In
 
 <img width="1310" alt="Screenshot 2023-07-15 at 14 07 32" src="https://github.com/Basir-ku/Case-study-in-Power-Bi/assets/123528497/478b98b0-cbee-4755-a484-66b10b9531d7">
 
+<img width="1310" alt="Screenshot 2023-07-15 at 14 07 46" src="https://github.com/Basir-ku/Case-study-in-Power-Bi/assets/123528497/ffecf652-e57a-4834-84b3-fee431802aeb">
+
 
